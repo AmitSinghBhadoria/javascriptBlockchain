@@ -1,0 +1,14 @@
+{
+  "name": "javascriptblockchain",
+  "version": "1.0.0",
+  "description": "javascript implementation of Blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amit Singh Bhadoria",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
